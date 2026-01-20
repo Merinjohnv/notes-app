@@ -20,3 +20,9 @@ Users can add, edit, delete notes, and all notes are saved using **localStorage*
 - HTML
 - CSS
 - JavaScript (DOM Manipulation & LocalStorage)
+
+---
+
+## 🔗 Live Demo
+
+👉 https://merinjohnv.github.io/notes-app/
